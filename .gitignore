@@ -1,0 +1,8 @@
+#
+logs/
+**/*.bak
+*.bak
+.*
+!/.gitignore
+phpold/
+public/bower_components
